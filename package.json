@@ -11,5 +11,8 @@
     "url": "express_demo2"
   },
   "author": "iswarya",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
